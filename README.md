@@ -1,0 +1,2 @@
+# Modelo-de-inteligencia-artificial-para-la-predicci-n-de-la-incidencia-estatal-de-Dengue
+Se desarrollaron modelos de inteligencia artificial basados en variables climatológicas y epidemiológicas para predecir la incidencia de dengue en México. El marco metodológico abarcó la recopilación y estandarización de datos, la implementación de técnicas de ML y la evaluación de los modelos predictivos mediante diferentes métricas. 
